@@ -7,7 +7,7 @@ dependencies:
   - pip
   - pandas
   - matplotlib
-  - sympy
   - pip:
     - jupyter-book
     - handcalcs
+    - sympy
